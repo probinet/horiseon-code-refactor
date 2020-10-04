@@ -2,6 +2,9 @@
 
 The goal of this assesment was to clean up the HTML and CSS to ensure the the webpage meets accessibility standards. 
 
+GitHub URL: https://probinet.github.io/horiseon-code-refactor/
+GitHub Repository: https://github.com/probinet/horiseon-code-refactor
+
 ##Changes Made to The HTML
 
 1. Changed the title to the name of the company, "Horiseon".
@@ -21,3 +24,8 @@ The goal of this assesment was to clean up the HTML and CSS to ensure the the we
 1. Because the "header" class was removed, I didn't need the ".header" anymore.
 2. The classes from ".search-engine-optimization" to ".social-media-marketing h2" were moved up in the style sheet to be included with the other "What We Do Section" styles.
 3. Comments were added to show which styles go with which section.
+
+##Screenshots
+
+<img src="assets/screenshots/Screenshot1.png"> 
+<img src="assets/screenshots/Screenshot2.png">
